@@ -15,7 +15,8 @@ public class Main {
         }
         System.out.println("Palavra original: " + word);
         System.out.println("Palavra invertida: " + wordreverse);
+    }
+    {
 
-        }
     }
 }
